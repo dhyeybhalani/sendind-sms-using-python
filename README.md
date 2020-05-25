@@ -1,1 +1,1 @@
-# sendind-sms-using-python
+# sending-sms-using-python
